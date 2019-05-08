@@ -1,0 +1,11 @@
+.env
+access.log
+error.log
+rawbody.txt
+user_record
+user_record.txt
+
+virtualenv/
+third_party/
+*.db
+.vscode/
