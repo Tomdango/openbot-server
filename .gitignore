@@ -9,3 +9,5 @@ virtualenv/
 third_party/
 *.db
 .vscode/
+__pycache__/
+*.pyc
